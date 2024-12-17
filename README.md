@@ -36,3 +36,6 @@ Le chef de projet doit mettre en place une sécurité robustes pour les opérati
 
 La gestion de la data de l’entreprise Aéroworld représente un objectif déterminant dans la stratégie de l’entreprise. La collecte et le stockage des données sont un élément majeur pour garantir une sécurité et une performance opérationnelle à long terme. 
 
+## DIAGRAMME DE GANTT POUR PLANIFIER LE PROJET 
+
+![diagramme de gantt](https://github.com/Kheira-c/images/blob/main/DIAGRAMME%20DE%20GANTT%20Planification%20.jpg?raw=true)
